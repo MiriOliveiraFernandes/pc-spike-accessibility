@@ -158,7 +158,7 @@ Elementos como menus, modais, tooltips  corrosséis devem ser navegáveis com `T
 Conclui-se que todas as ferramentas que foram citadas nesse trabalho são poderosas e essenciais para a navegação por taclado, devendo ser utilizadas com cuidado visando uma interface acessível para todos.  
 
 ## Aplicação
-[Apresentação de slides](https://www.bbc.comhttps://prezi.com/p/lbc0vz0u3r6a/?present=1)
+[Apresentação de slides](https://prezi.com/p/lbc0vz0u3r6a/?present=1)
 
 [Aplicação no GIT HUB](https://mirioliveirafernandes.github.io/pc-spike-accessibility/)
 
